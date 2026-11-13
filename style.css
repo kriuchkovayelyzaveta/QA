@@ -1,0 +1,9 @@
+body {
+ background-color: rgb(190, 190, 31); 
+}
+h1 {
+   font-size: 30px; color: rgb(254, 254, 254); text-align: center; 
+}
+p {
+    font-size: 25px; color: lightblue;
+}
